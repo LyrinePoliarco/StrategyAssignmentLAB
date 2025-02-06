@@ -1,6 +1,6 @@
 # StrategyAssignmentLAB
 
-Problem scenario:
+# Problem scenario:
 
 Suppose we have three types of characters in a GameApp:
 
@@ -53,3 +53,10 @@ public class Character {
     }
 }
 
+
+# UML DIAGRAM 
+![Blank diagram (5)](https://github.com/user-attachments/assets/723ecdf2-f48c-4bee-8579-b05ee2394acf)
+
+# Source code
+Week 1 -1 Strategy Pattern Module 
+https://college2425.neu.edu.ph/mod/url/view.php?id=27983 
